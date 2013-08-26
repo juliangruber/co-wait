@@ -3,6 +3,8 @@
 
 setTimeout generator style.
 
+[![build status](https://secure.travis-ci.org/juliangruber/co-wait.png)](http://travis-ci.org/juliangruber/co-wait)
+
 ## Example
 
 ```js
