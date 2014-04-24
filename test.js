@@ -9,5 +9,5 @@ test('waits', function(t) {
     yield wait(100);
     var dt = Date.now() - now;
     t.assert(Math.abs(dt - 100) < 50);
-  });
+  })();
 });
