@@ -13,8 +13,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tape": "^2.12.3",
-    "co": "^3.0.5"
+    "tape": "^4.6.2",
+    "co": "^4.6.0"
   },
   "keywords": [
     "generator",
